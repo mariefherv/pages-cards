@@ -1,6 +1,0 @@
-<svg id="Icon" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
-  <circle id="Oval" cx="13" cy="13" r="13" fill="#67AD5B"/>
-  <g id="Tick" transform="translate(7 9)">
-    <path id="Path" d="M11.824.179a.591.591,0,0,0-.849,0L3.787,7.521,1.024,4.7a.591.591,0,0,0-.849,0,.622.622,0,0,0,0,.867L3.363,8.821a.591.591,0,0,0,.849,0l7.613-7.775A.622.622,0,0,0,11.824.179Z" fill="#fff"/>
-  </g>
-</svg>
